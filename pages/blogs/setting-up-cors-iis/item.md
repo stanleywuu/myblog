@@ -22,21 +22,36 @@ And you might react this way:
 I'm just going to go turn it off.
 
 First, let me make another obligatory announcement:
-# DO NOT DISABLE CORS ON A PRODUCTION ENVIRONMENT
+## DO NOT DISABLE CORS ON A PRODUCTION ENVIRONMENT
 If you can reach your cloud server from your basement, an attacker can reach your server the same way so we have to be careful about that.
 
 The scenario here is only when you need to do something quick, and safe, and in a **dev** environment. This is likely the reason why you would encounter CORS in the first place.
 
 Now if you host your site on Azure, it's easy, you go to policies, CORS and add * as your origin, you can follow a guide such as [this](https://github.com/uglide/azure-content/blob/master/articles/app-service-api/app-service-api-cors-consume-javascript.md)
 
-There are a lot of pre-conditions to this announcement, here's a recap.
 - If you use IIS
 - If you maintain a web application and a server application for it
 - You want to update your CORS settings
 
 Now if you are using **IIS**, you might have come across many stack overflow posts that tells you to add such and such configuration to web.config, but I am here to tell you the most important thing.
+For example, you might have gone into the config file and added things like
+```
+<system.webServer>
+    <httpProtocol>
+        <customHeaders>
+            <add name="Access-Control-Allow-Origin" value="*" />
+            <add name="Access-Control-Allow-Methods" value="GET,POST,OPTIONS" />
+            <add name="Access-Control-Allow-Headers" value="Content-Type, soapaction" />
+        </customHeaders>
+    </httpProtocol>
+</system.webServer>
+```
 
-# Before applying their changes, MAKE SURE YOU INSTALL THE CORS Module
+And then you might have found out that it didn't do anything.
+**Really, this looks like something that would work, though?**
+
+## You are right, you are just missing one more thing.
+## MAKE SURE YOU INSTALL THE CORS Module Extension for IIS
 [Download the extension here](https://www.iis.net/downloads/microsoft/iis-cors-module)
 Otherwise, whatever setting you copy from Stack overflow **will not do anything**
 
@@ -44,6 +59,7 @@ Otherwise, whatever setting you copy from Stack overflow **will not do anything*
 Once installed, the IIS CORS module is configured via a site or application web.config and has its own **cors** configuration section within system.webserver.
 ```
 
-That is all, in response to a wasted day. Where I thought I ran out of options, but it was only because our servers did not have the CORS extension installed.
+That is all, in response to a wasted day. 
+Where I thought I ran out of options, but it was only because our servers did not have the CORS extension installed.
 
 Hope this saves someone's day.
