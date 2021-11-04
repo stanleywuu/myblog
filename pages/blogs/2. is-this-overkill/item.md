@@ -1,5 +1,6 @@
 ---
 title: 'Is this overkill?'
+date: 04/20/2020
 taxonomy:
     category:
         - 'Work Station'

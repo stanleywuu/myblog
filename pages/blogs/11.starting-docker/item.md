@@ -1,5 +1,6 @@
 ---
 title: Starting Docker: Lessons learned from first week of using docker
+date: 03/5/2021
 taxonomy:
     category:
         - 'Docker'

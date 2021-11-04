@@ -1,5 +1,6 @@
 ---
 title: 'vstime: A VS Code extension to keep track'
+date: 10/22/2020
 media_order: demo.gif
 ---
 

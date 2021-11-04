@@ -1,5 +1,6 @@
 ---
 title: 'It''s starting to take shape'
+date: 04/22/2020
 taxonomy:
     category:
         - 'Work Station'

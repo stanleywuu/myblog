@@ -1,6 +1,6 @@
 ---
 title: 'My vision of a VS code kind of day'
-date: 04/20/2020
+date: 05/2/2020
 ---
 Here is the overwhelming sensation I have about Visual Studio code:
 Visual Studio Code is cool!

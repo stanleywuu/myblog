@@ -1,5 +1,6 @@
 ---
 title: 'First Attempt: Script Runner'
+date: 9/20/2020
 taxonomy:
     category:
         - 'VS Code'
