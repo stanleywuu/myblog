@@ -1,5 +1,6 @@
 ---
 title: 'Finding a workflow'
+date: 04/05/2020
 taxonomy:
     category:
         - 'Work Station'
