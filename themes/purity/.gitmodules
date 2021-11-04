@@ -1,0 +1,3 @@
+[submodule "scss/pure"]
+	path = scss/pure
+	url = https://github.com/yahoo/pure

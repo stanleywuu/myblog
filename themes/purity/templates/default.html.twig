@@ -1,0 +1,17 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+<div class="posts">
+                <h1 class="content-subhead">{{ page.header.title }}</h1>
+<section class="post">
+  <header class="post-header">
+    <h2 class="post-title">{{ page.header.title }}</h2>	
+ </header>
+        {% if big_header %}
+            {{ page.media.images|first.cropResize(1038,437).html(page.title, page.title, 'image featured') }}
+        {% else %}
+            {{ page.media.images|first.cropZoom(1038,437).html(page.title, page.title, 'image featured') }}
+        {% endif %}
+   {{ page.content}}
+</section>
+</div>
+{% endblock %}

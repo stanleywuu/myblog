@@ -1,0 +1,21 @@
+<div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title"> <a href="{{ base_url_absolute }}">{{ site.title|upper }}</a></h1>
+            <h2 class="brand-tagline">{{ config.themes.purity.tagline }}</h2>
+                
+            {% include 'partials/navigation.html.twig' %}
+            <nav class="nav">
+                <ul class="icons">
+                 <li><a href="#" class="fa fa-twitter"><span class="label">Twitter</span></a></li>
+                 <li><a href="#" class="fa fa-facebook"><span class="label">Facebook</span></a></li>
+                 <li><a href="#" class="fa fa-instagram"><span class="label">Instagram</span></a></li>
+                 {% if config.plugins.feed.enabled %}
+                 <li><a href="{{ feed_url }}.rss" class="fa fa-rss"><span class="label">RSS</span></a></li>
+                 {% endif %}
+                <li><a href="#" class="fa fa-envelope"><span class="label">Email</span></a></li>
+                </ul>
+                <p class="copyright">&copy; {{ "now"|date("Y") }} {{ site.author.name }}. </p>
+            </nav>
+
+        </div>
+    </div>
