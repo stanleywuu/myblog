@@ -3,7 +3,7 @@ title: 'First Attempt: Script Runner'
 taxonomy:
     category:
         - 'VS Code'
-    tags:
+    tag:
         - script-scanner
         - build
         - progress

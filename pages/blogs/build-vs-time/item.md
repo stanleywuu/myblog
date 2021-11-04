@@ -3,7 +3,7 @@ title: vs code Extension series: Let's build vstime - Part 1 the definitions
 taxonomy:
     category:
         - 'VS Code'
-    tags:
+    tag:
         - vstime
         - build
         - progress

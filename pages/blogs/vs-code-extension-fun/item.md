@@ -3,7 +3,7 @@ title: Dabbling into the world of VS Code Extension
 taxonomy:
     category:
         - 'VS Code'
-    tags:
+    tag:
         - resources
 ---
 I've always wanted to make games since highschool days, and my friend was all "Why don't you make a mod?"
