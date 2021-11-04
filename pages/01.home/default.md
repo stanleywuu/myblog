@@ -22,6 +22,7 @@ title: Home
 - November 2020: Okay now I really gotta go. Boss: What if we put you on a different team on a new project?
 - Oct 2021: Well, that was fun! But being the human version of a CD tool is way too exhausting.
 - Nov: 2021: Retired
-### Thus begins my descent to homelessness
 
-Here marks my descent to homelessness
+### Thus begins my descent to homelessness
+- Week #1: Setting up the home page, starting on new project
+
