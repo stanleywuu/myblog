@@ -1,5 +1,13 @@
 ---
 title: 'Finding a workflow'
+taxonomy:
+    category:
+        - 'Work Station'
+    tag:
+        - workstation
+        - environment
+        - setup
+        - productivity
 ---
 
 As my previous blog attempts, the first step after registering had always been to set up my machine for local development

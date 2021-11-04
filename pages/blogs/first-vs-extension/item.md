@@ -1,5 +1,12 @@
 ---
 title: 'First Attempt: Script Runner'
+taxonomy:
+    category:
+        - 'VS Code'
+    tags:
+        - script-scanner
+        - build
+        - progress
 ---
 I am making a VS Code extension
 Why?

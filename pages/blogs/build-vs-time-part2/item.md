@@ -1,5 +1,13 @@
 ---
 title: vs code Extension series: Let's build vstime - Part 2 
+
+taxonomy:
+    category:
+        - 'VS Code'
+    tags:
+        - vstime
+        - build
+        - progress
 ---
 This is the second post of the series of [building vs code extensions](../build-vs-time) where I will go through the process of the creation of the extensions that I make for vs code.
 

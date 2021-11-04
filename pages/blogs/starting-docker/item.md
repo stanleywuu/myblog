@@ -1,5 +1,10 @@
 ---
 title: Starting Docker: Lessons learned from first week of using docker
+taxonomy:
+    category:
+        - 'Docker'
+    tag:
+        - docker
 ---
 
 So we have been looking into using containers for a while now, but that has mostly been my manager's job, because
@@ -13,12 +18,13 @@ We can do that, too, and without using containers for that matter. Although admi
 
 But then he got me started on docker-compose.
 
-### Holy mother of God, what can you do now?
+### So, what can you do now?
 * A lot of companies now offer docker images that you can host locally.
 * From a user's point of view, I'm not sure whether this is easier:
   * We used to be able to do the same using an Installer on Windows, or shell scripts on Linux/Mac machines.
   * Now if we need to use a utility: docker run image {tool}, that's kinda cool, I guess.
 * But in all honesty, being able to spin up a whole server, without configuring IIS, without opening firewalls is pretty great.
+* I'm running MS SQL in my Linux environment right now using Docker. It's pretty sweet.
 
 ### Learning backwards is hard
 * With so many years of experience googling a problem and finding a solution, I thought learning backwards wouldn't be so hard.
@@ -40,7 +46,6 @@ But then he got me started on docker-compose.
 ### Gotchas with docker-compose
 * Generally, if you can, use a Mac or Linux machine, there were so many times where I've done things and asked myself: "Did I get path wrong because...you know, Windows?" Once you are familiar with it enough, you can move back to Windows if you'd like. Me? I fought through it this whole week, I'm not about to change now.
 * Use context if the Dockerfile resides in a subdirectory.
-  * We are not mature enough in docker land yet, nobody feels confident enough to push their image up in a repository. So for now, we are building Dockerfile s locally in our folder
   * So our docker-compose file looks something like
 ```yaml
    service:
@@ -49,11 +54,18 @@ But then he got me started on docker-compose.
         - "8080:80"
 ```
   * And it didn't work, "files does not exist"....
-  * It works when I use ```docker run``` on the image though, why?
   * The answer is actually ... of course **relative paths**
   * You can specify ```working_dir``` all you want, and it's not going to make a difference.
   * What you really need is [context](https://docs.docker.com/compose/compose-file/compose-file-v3/#build)
 
+
+```yaml
+   service:
+      build: .
+      context: ./working_dir/
+      ports:
+        - "8080:80"
+```
 ### Volumes are useful, but make sure you understand it first
 * If you are reading this, I assume you are looking for quick ways to jump into docker, which means you probably know as little as volume as I started.
 * Basically, volume allows you to update the contents of the container by editing the contents inside directly.

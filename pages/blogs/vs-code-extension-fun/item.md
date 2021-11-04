@@ -1,5 +1,10 @@
 ---
 title: Dabbling into the world of VS Code Extension
+taxonomy:
+    category:
+        - 'VS Code'
+    tags:
+        - resources
 ---
 I've always wanted to make games since highschool days, and my friend was all "Why don't you make a mod?"
 To which, I would dismiss with a sneer: "Mods are for weaklings."

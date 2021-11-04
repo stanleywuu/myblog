@@ -1,8 +1,15 @@
 ---
 title: 'It''s starting to take shape'
+taxonomy:
+    category:
+        - 'Work Station'
+    tag:
+        - environment
+        - setup
+        - RICE
 ---
 
-Jeez, who knew customizing something is so much work?
+Who knew customizing something is so much work?
 Who knew that I even have to manage the display settings myself?
 So far the desktop is starting to take shape
 
@@ -42,7 +49,6 @@ Terminator comes with transparency setting, it's been the one thing that keeps i
 
 5. Installed alacritty at my friend's suggestion
 - Warning, the version on Snap does not work
-- TODO: Find out how I installed alacritty and include 
 
 6. Installed TMux
 - Learning tmux from zero prior knowledge is painful but it'll be worth it
