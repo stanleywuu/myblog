@@ -1,6 +1,7 @@
 ---
 title: vs code Extension series: Let's build vstime - Part 2 
 date: 11/3/2020
+visible: false
 taxonomy:
     category:
         - 'VS Code'

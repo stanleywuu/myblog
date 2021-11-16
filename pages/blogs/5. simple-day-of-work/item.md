@@ -1,5 +1,6 @@
 ---
 title: 'My vision of a VS code kind of day'
+visible: false
 date: 05/2/2020
 ---
 Here is the overwhelming sensation I have about Visual Studio code:

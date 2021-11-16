@@ -1,6 +1,14 @@
 ---
 title: PSA: Install the CORS module if you are using IIS
 date: 05/20/2021
+visible: false
+taxonomy:
+    category:
+        - tips
+    tags:
+        - web
+        - CORS
+        - iis
 ---
 So CORS is a mechanism used to enforce security of your web application, if you work on a server client application, and haven't needed to know about it yet, you probably will at some point.
 
