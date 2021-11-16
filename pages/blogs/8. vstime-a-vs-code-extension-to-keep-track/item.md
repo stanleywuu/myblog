@@ -1,6 +1,13 @@
 ---
 title: 'vstime: A VS Code extension to keep track'
 date: 10/22/2020
+visible: false
+taxonomy:
+    category:
+        - 'VS Code'
+    tag:
+        - vstime
+        - build
 media_order: demo.gif
 ---
 
