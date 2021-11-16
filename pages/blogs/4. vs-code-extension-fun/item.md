@@ -1,6 +1,7 @@
 ---
 title: Dabbling into the world of VS Code Extension
 date: 05/01/2020
+visible: false
 taxonomy:
     category:
         - 'VS Code'
