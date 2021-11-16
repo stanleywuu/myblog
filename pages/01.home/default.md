@@ -3,7 +3,7 @@ title: Home
 ---
 
 ## Timeline of a retired Software Developer
-### Here's an abbreviated log of my decent to homelessness in reverse chronological orders
+### Here's an abbreviated log of my decent to homelessness in reverse chronological order
 
 *Note: Months are estimates*
 
