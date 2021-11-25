@@ -5,9 +5,16 @@ title: Recent updates
 ## Timeline of post-retirement
 ### Pointless browsing of reddit and youtube everyday is implied
 
+- Week #4: Gearing up to release my custom library
+- Day 1: Attempt to add legacy support to the Icebear library for Net5, .Net Standard
+    - It is a challenge with the dependency on EF Core and EF Core 6
+- Day 2 - 3: Having trouble with eyes, taking a break. Do some pushups, skip some ropes... Try to stay off youtube... yuck
+- Day 4: Eyes are a bit better, started working on a new article for mapping with React Functional Components
+    - Adding Repository pattern in the Icebear library to allow more flexibility in terms of persistence support
 - Week #3: Getting some income
 - Day 1: Scrubbed the toilet
 - Day 1: Start the freelancing articles that is due on the beginning of Week #4
+- Day 3: Didn't expect that I need to actually (RICE)[https://reddit.com/r/unixporn] my workstation when working on an article, but that was fun
 
 - Week #2: Retirement trip
 - Day 3 - 7: Trip to Montreal!
