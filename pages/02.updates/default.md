@@ -10,7 +10,8 @@ title: Recent updates
     - It is a challenge with the dependency on EF Core and EF Core 6
 - Day 2 - 3: Having trouble with eyes, taking a break. Do some pushups, skip some ropes... Try to stay off youtube... yuck
 - Day 4: Eyes are a bit better, started working on a new article for mapping with React Functional Components
-    - Adding Repository pattern in the Icebear library to allow more flexibility in terms of persistence support
+    - Adding Repository pattern in the Icebear library to allow more flexibility in terms of persistence support &#9745;
+    - Decided to add new features. It's very easy to over-complicate things when making a library
 - Week #3: Getting some income
 - Day 1: Scrubbed the toilet
 - Day 1: Start the freelancing articles that is due on the beginning of Week #4
