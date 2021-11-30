@@ -18,11 +18,11 @@ title: Recent updates
 - Weekend: Put on winter tires
     - This was my fourth year changing my winter tires, yet I encountered something I've never encountered before... The wheels were stuck
     - So the solution was: Drive the car around with the nuts loose
-    - Terrifying experience
 ----------
 - Week #3: Getting some income
 - Day 1: Scrubbed the toilet
 - Day 1: Start the freelancing articles that is due on the beginning of Week #4
+
 - Day 3: Didn't expect that I need to actually (RICE)[https://reddit.com/r/unixporn] my workstation when working on an article, but that was fun
 ----------
 - Week #2: Retirement trip
