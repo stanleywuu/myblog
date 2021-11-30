@@ -22,8 +22,8 @@ title: Recent updates
 - Week #3: Getting some income
 - Day 1: Scrubbed the toilet
 - Day 1: Start the freelancing articles that is due on the beginning of Week #4
-***
 - Day 3: Didn't expect that I need to actually (RICE)[https://reddit.com/r/unixporn] my workstation when working on an article, but that was fun
+***
 - Week #2: Retirement trip
 - Day 1 - 3: Cleaning up + Pack up
 - Day 3 - 7: Trip to Montreal!
