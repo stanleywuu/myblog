@@ -6,6 +6,8 @@ title: Recent updates
 ### Pointless browsing of reddit and youtube everyday is implied
 - Week #5: Time to get to work
 - Day 1: Adding some fine touches to the custom library, UI page for displaying logs.
+- Day 3: Continued working on my freelance article. Going to the library is just so much more productive :(
+- Day 4: I need to fix the name of the Open Source library
 ***
 - Week #4: Gearing up to release my custom library
 - Day 1: Attempt to add legacy support to the Icebear library for Net5, .Net Standard
