@@ -2,20 +2,26 @@
 title: Home
 ---
 
-## Timeline of a retired Software Developer
-### Here's an abbreviated log of my decent to homelessness in reverse chronological order
+## Chronical Of a Retired Software Developer
+### What Is This About
+This is the home of a "retired" software developer,
+Who has burnt out a few times over,
+So on the tenth year of his career,
+He took a break and bought some beer.
+Here's the chronical of his descent.
+From living a comfortable life to homelessness.
+
+### How Do You Support Yourself?
+That's a good question. I will be exploring a few different options. And hopefully generate some income before I run out of money.
+Currently, I still have some income from freelance tutorial writing, but $500/month is hardly sustainable.
+
+### How Did You Get To This Stage?
 
 *Note: Months are estimates*
 
 TIL ```:g/^/m 0 ``` is the command to reverse the orders or the lines in Vim
 
-- I guess I'll just update the blog site for now
-- Week #2 starts now
-- Day 5: Could not bring myself to write code, it was fun when I started it and I really do want to work on it, but something is holding me back.
-- Day 3: Started working on a an exception logging library
-- Week #1: Setting up the home page, starting on new project
-
-- Nov: 2021: Retired
+- Nov: 2021: Retirement!!!
 - Oct 2021: Well, that was fun! But being the human version of a CD tool is way too exhausting.
 - November 2020: Okay now I really gotta go. Boss: What if we put you on a different team on a new project?
 - April 2019: As a break, work on the web app instead.
