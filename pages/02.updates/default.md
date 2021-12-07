@@ -4,10 +4,16 @@ title: Recent updates
 
 ## Timeline of post-retirement
 ### Pointless browsing of reddit and youtube everyday is implied
+- Week #6: Accelerating? LOLOL
+- Day 1: I have rediscovered "Everybody loves Raymond"... Oh boy
+- Day 2: Finishing off a freelancing article. Picking up another one for December.
+    - I'm spending too much time on these articles. Need to get back to my own projects
+    - Is it bad that I find l33tcode problems more interesting than work problems?
 - Week #5: Time to get to work
 - Day 1: Adding some fine touches to the custom library, UI page for displaying logs.
 - Day 3: Continued working on my freelance article. Going to the library is just so much more productive :(
 - Day 4: I need to fix the name of the Open Source library
+- Day 5: Started doing some l33tcode problems. I feel so dumb :(
 ***
 - Week #4: Gearing up to release my custom library
 - Day 1: Attempt to add legacy support to the Icebear library for Net5, .Net Standard
