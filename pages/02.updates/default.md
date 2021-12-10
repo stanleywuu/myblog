@@ -9,6 +9,9 @@ title: Recent updates
 - Day 2: Finishing off a freelancing article. Picking up another one for December.
     - I'm spending too much time on these articles. Need to get back to my own projects
     - Is it bad that I find l33tcode problems more interesting than work problems?
+- Day 3: Got myself checked out at the chiropractor, hopefully there isn't anything major.
+- Day 4: Continuing on with leetcode. The DFS and BFS are strange and magical.
+- Day 5: Found some youtube tutorial for Taichi, neglecting my projects right now.
 - Week #5: Time to get to work
 - Day 1: Adding some fine touches to the custom library, UI page for displaying logs.
 - Day 3: Continued working on my freelance article. Going to the library is just so much more productive :(
