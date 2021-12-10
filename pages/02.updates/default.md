@@ -12,6 +12,8 @@ title: Recent updates
 - Day 3: Got myself checked out at the chiropractor, hopefully there isn't anything major.
 - Day 4: Continuing on with leetcode. The DFS and BFS are strange and magical.
 - Day 5: Found some youtube tutorial for Taichi, neglecting my projects right now.
+    - Talking with an insurance broker to figure out what insurance I want to get, or whether I want insurance at all.
+    - Very interesting because you don't think about this when you have a job, and I'm oblivious of the cost of pretty much everything I've done since they did direct billing.
 - Week #5: Time to get to work
 - Day 1: Adding some fine touches to the custom library, UI page for displaying logs.
 - Day 3: Continued working on my freelance article. Going to the library is just so much more productive :(
