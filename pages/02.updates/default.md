@@ -4,7 +4,17 @@ title: Recent updates
 
 ## Timeline of post-retirement
 ### Pointless browsing of reddit and youtube everyday is implied
-- Week #6: Accelerating? LOLOL
+- Week #8: Christmas
+    - Day 1: Started Chiropractice adjustment on the shoulder.
+      - Finishing article outlines that I accepted on Friday
+- Week #7: Scared and wasted
+    - Day 1: More Taichi, saw the X-Ray of my spine. Immediately paid for my chiropractic corrective program. First adjustment, neck still stiff.
+    - Day 2: Scared now, really focusing on learning the Taichi moves.
+    - Day 3: Adjustments and Taichi. Being very careful not to look at the screen. Bought insurance... The descent feels real now.
+    - Day 4: Adjustments and Taichi, almost learned the whole set now.
+    - Day 5: Taichi. Then I got bored, used WinDirStat to remove stale files from my Windows and re-downloaded steam
+    - Weekend: Skipped out on lunch with ex-coworkers amid Omicron scare. Also, shoveled snow.
+- Week #6: Accelerating? Oh the Irony
 - Day 1: I have rediscovered "Everybody loves Raymond"... Oh boy
 - Day 2: Finishing off a freelancing article. Picking up another one for December.
     - I'm spending too much time on these articles. Need to get back to my own projects
