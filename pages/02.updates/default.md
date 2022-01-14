@@ -4,6 +4,8 @@ title: Recent updates
 
 ## Timeline of post-retirement
 ### Pointless browsing of reddit and youtube everyday is implied
+- Week #9, 10, 11
+   - I have discovered some new (old) games on steam and spent all my time playing, need to get back on track!!
 - Week #8: Christmas
     - Day 1: Started Chiropractice adjustment on the shoulder.
       - Finishing article outlines that I accepted on Friday
