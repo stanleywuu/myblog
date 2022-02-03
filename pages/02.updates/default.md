@@ -4,6 +4,12 @@ title: Recent updates
 
 ## Timeline of post-retirement
 ### Pointless browsing of reddit and youtube everyday is implied
+- Week 13
+    - Finally satisfied my gaming itch.
+    - Today's Thursday, I'm finally updating my LinkedIn for my last job experience. Time to start testing out the waters.
+- Week 12
+    - I lost track of weeks... games... probably
+    - Finished articles on Microsoft PowerApps. It's great, but the Microsoft ecosystem is too big. Like Lao Tzu said, govern an empire like a small village. The bigger they are, the harder it is to manage.
 - Week #9, 10, 11
    - I have discovered some new (old) games on steam and spent all my time playing, need to get back on track!!
 - Week #8: Christmas
